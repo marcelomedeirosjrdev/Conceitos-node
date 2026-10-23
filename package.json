@@ -1,19 +1,24 @@
 {
   "name": "conceitos-node",
   "version": "1.0.0",
-  "description": "esse projeto é sobre conceitos nodes",
-  "type": "module",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "dev": "node --watch server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelomedeirosjrdev/Conceitos-node.git"
+  },
+  "keywords": [],
   "author": "Marcelo Medeiros",
   "license": "ISC",
-  "dependencies": {
-    "@prisma/client": "^6.9.0",
-    "express": "^5.1.0"
+  "bugs": {
+    "url": "https://github.com/marcelomedeirosjrdev/Conceitos-node/issues"
   },
-  "devDependencies": {
-    "prisma": "^6.8.2"
+  "homepage": "https://github.com/marcelomedeirosjrdev/Conceitos-node#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.3.0"
   }
 }
