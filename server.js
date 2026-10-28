@@ -32,3 +32,14 @@ users.push(req.body)
 
 
 app.listen(3000)
+
+
+/* 
+marcelo
+123456
+
+marcelomedeiiros_db_user
+YYfVtmqacEFZt47m
+
+
+*/
